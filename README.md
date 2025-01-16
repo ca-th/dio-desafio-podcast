@@ -25,6 +25,9 @@ Roteiro gerado via ChatGPT : Porque ter uma ajuda pra organizar as ideias sempre
 Canvas : Pra fazer as capas e deixar tudo visualmente bonito.
 CapCut : Pra editar o áudio e adicionar músicas de fundo e efeitos sonoros.
 
+[Ouça o podcast aqui](https://soundcloud.com/cath-html/podcast-devforgirls?si=61362092661c481c8455a8b79132d6bf&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+
 
 
 
