@@ -1,6 +1,6 @@
 # dio-desafio-podcast
 
-![Capa do Podcast](capa-podcast.png)
+![Capa do Podcast](capa-podcast.png(1)(1))
 
 
 DevForGirls 🎙️💻
